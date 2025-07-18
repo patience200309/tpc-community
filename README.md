@@ -30,8 +30,8 @@ tpc-community/
 - [1] Project structure is correct (`tree` command confirms).
 - [2] `deploy.sh` has executable permissions (`chmod +x deploy.sh`).
 - [3] `git log` shows **3+ meaningful commits**.
-- [4] Your GitHub fork contains the contribution file:
-  `community_contributions/yourname_style_guide.txt`.
+- [4] `history` copied and pasted in a history.txt file.
+
 
 ##  Final Note
 

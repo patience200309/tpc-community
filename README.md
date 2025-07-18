@@ -21,7 +21,7 @@ tpc-community/
    - `documentation/` with a file named `style_guide.txt`.
 3. Initialize Git and make **at least 3 commits** with **clear commit messages**.
 4. Fork this repository:  
-   👉 [atlas-community GitHub Repo](https://github.com/londeka-z/tpc-community)
+   👉 [Tpc-community GitHub Repo](https://github.com/londeka-z/tpc-community)
 5. Clone your fork to your local machine.
 6. Push changes to your fork on GitHub.
 

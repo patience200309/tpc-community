@@ -3,9 +3,13 @@
 
 ## Project Structure
 tpc-community/
+
 ├── automation_scripts/
+
 │ └── deploy.sh
+
 ├── documentation/
+
 │ └── style_guide.txt
 
 
